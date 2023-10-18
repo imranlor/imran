@@ -1,1 +1,5 @@
 venv/
+address.db
+orders.db
+users.db
+.env
